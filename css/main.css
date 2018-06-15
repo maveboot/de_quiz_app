@@ -1,0 +1,52 @@
+
+#vragen_lijst{
+	float: left;
+}
+
+#ready{
+	padding: 1em;
+	color: #ffffff;
+	background-color: #009688;
+	border-style: none;
+	border-radius: 5%;
+	width: 80px;
+}
+
+#vraag_afbeelding{
+	margin-left: 100px;
+}
+
+#antwoord_optie{
+	margin-left: 100px;
+	margin-top: 20px;
+}
+
+#button_plaats{
+	margin-left: 100px;
+	margin-top: 20px;
+}
+
+img {
+	max-width: 420px;
+    max-height: 610px;
+}
+
+.goed{
+	background-color: #58D68D;
+	width: 500px;
+}
+
+.fout{
+	background-color: #EC7063;
+	width: 500px;
+}
+
+#vragen_lijst ul {
+	list-style-type: none;
+}
+
+.circle_pics {
+	width: 20px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
